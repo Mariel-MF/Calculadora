@@ -1,2 +1,2 @@
-# Calculadora
-El programa consiste en una calculadora simple
+# Calculadora y muchos programas mas 
+Los programas consisten en codigos simpples
